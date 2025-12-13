@@ -64,9 +64,9 @@ Siber savaşlarda ve yazılım geliştirmede kullandığım araçlar ve diller:
 * **Amaç:** İHA sistemlerine yapılabilecek GPS Spoofing ve WiFi Deauth saldırılarını tespit edip, otonom olarak "Eve Dön" moduna geçen bir savunma mekanizması.
 * **Teknolojiler:** ROS Noetic, Python, Aircrack-ng API, MAVLink.
 
-#### 🐧 2. Linux Kernel Exploit Analizi (C & Assembly)
-* **Amaç:** Eski Linux çekirdek sürümlerindeki "Race Condition" zafiyetlerini analiz ederek, eğitim amaçlı yerel yetki yükseltme (Privilege Escalation) scriptleri yazmak.
-* **Teknolojiler:** C, GDB, Kernel Debugging.
+#### 📡 2. Wi-Fi Deauth & Ağ Erişim Kontrolcüsü (Python)
+* **Amaç:** Yerel ağdaki yetkisiz veya gereksiz cihazları tespit ederek, 802.11 Deauthentication paketleri ile ağdan otomatik olarak düşüren (Kick) bir güvenlik test aracı.
+* **Teknolojiler:** Python, Scapy, Aircrack-ng, Wireshark.
 
 #### 🕷️ 3. Red Team Otomasyon Aracı (Bash)
 * **Amaç:** Sızma testlerinde bilgi toplama aşamasını (Reconnaissance) otomatize eden, Nmap ve Nikto çıktılarını raporlayan bir CLI aracı.
