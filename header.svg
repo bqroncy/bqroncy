@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        /* YENİ FONT: Share Tech Mono (Tam bir hacker terminali havası) */
+        /* FONT: Share Tech Mono (Terminal Havası) */
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
 
         /* Bozuk Neon Titreme Animasyonu */
@@ -26,11 +26,11 @@
         }
 
         .text {
-          font-family: 'Share Tech Mono', monospace; /* Yeni Font */
-          font-size: 50px; /* Metin kısaldığı için boyutu büyüttüm, daha etkileyici duracak */
+          font-family: 'Share Tech Mono', monospace;
+          font-size: 45px; /* Metin uzadığı için boyutu hafif kıstım, mükemmel sığacak */
           font-weight: 400;
-          text-transform: lowercase; /* Hepsini küçük harfe zorlar */
-          letter-spacing: 4px; /* Harf aralığını açarak sinematik hava verdim */
+          text-transform: lowercase;
+          letter-spacing: 2px; /* Harfler birbirine daha yakın, terminal gibi */
           color: #ce1212;
           
           /* Animasyon */
@@ -38,7 +38,7 @@
         }
       </style>
       <div class="container">
-        <div class="text">bqroncy</div>
+        <div class="text">bqroncy@kali</div>
       </div>
     </div>
   </foreignObject>
