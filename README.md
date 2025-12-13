@@ -2,22 +2,18 @@
   <img src="./header.svg" alt="bqroncy@kali" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Siber+Güvenlik+Mühendisliği+Öğrencisi;Red+Team+%7C+ROS+%7C+Exploit+Dev;%22Savunma+için+önce+saldırı+sanatını+öğren.%22" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Autonomous+Systems+(ROS);UAV+Developer;Red+Team;Sakarya+University+Cyber+Security+Engineering;Breaching+Defenses+to+Build+Stronger+Walls;Exploring+the+Dark+Side+of+the+Source+Code;Linux+Kernel+Hacking;Kali+Linux;Penetration+Testing" alt="Typing Bio" />
   </a>
 </div>
 
 ---
 
-> *"Güvenlik bir ürün değil, bir süreçtir."*
+Sakarya Üniversitesi Siber Güvenlik Mühendisliği bölümünde eğitimime devam ederken, siber güvenlik alanında ofansif (saldırı) teknikler ve sızma testleri (pentest) üzerine uzmanlaşıyorum.
 
-Selam! Ben **Sakarya Üniversitesi Siber Güvenlik Mühendisliği** öğrencisiyim. Dijital dünyadaki varlığımı, sistemlerin nasıl çalıştığını ve daha da önemlisi **nasıl kırılabileceğini** anlamaya adadım.
+Aynı zamanda Kali Linux ortamında sistem mimarisi ve çekirdek zafiyetleri üzerine araştırmalar yapıyor, otonom İHA sistemleri için ROS tabanlı güvenli yazılımlar geliştiriyorum.
 
-Sıradan bir geliştirici değilim; kod yazarken aynı zamanda o kodun zafiyetlerini düşünen bir **Red Teamer**, donanım ile yazılımı birleştiren bir **ROS Geliştiricisiyim**.
+Think like a hacker, act like an engineer.
 
-* 🔭 **Şu an üzerinde çalıştığım:** Linux Kernel modülleri üzerinde rootkit analizi ve İHA sürüleri için güvenli haberleşme protokolleri.
-* 🌱 **Öğrenmeye devam ettiğim:** Tersine Mühendislik (Reverse Engineering) ve Malware Analizi.
-* 👯 **İş birliği aradığım konular:** Açık kaynak siber güvenlik araçları ve Otonom savunma sistemleri.
-* ⚡ **Eğlenceli gerçek:** Bilgisayarımı fare kullanmadan, sadece terminal komutlarıyla yönetmeyi tercih ederim.
 
 ---
 
@@ -27,9 +23,16 @@ Bu alan benim günlük dijital rutinimi temsil eder.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=600&color=33FF00&background=0D1117&center=false&vCenter=true&width=750&lines=bqroncy@kali%3A~%24+sudo+airmon-ng+start+wlan0;[+]+Monitor+mode+enabled+on+wlan0mon;bqroncy@kali%3A~%24+roslaunch+drone_control+autonomous_flight.launch;[INFO]+UAV+Systems+Online...+GPS+Locked.;bqroncy@kali%3A~%24+python3+exploit_poc.py+--target+192.168.1.105;[+]+Buffer+Overflow+Successful!+Root+Shell+Spawned...;bqroncy@kali%3A~%24+git+commit+-m+%22Added+new+penetration+scripts%22" alt="Terminal Simulation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=600&color=33FF00&background=0D1117&center=false&vCenter=true&width=750&lines=bqroncy@kali%3A~%24+nmap+-p-+--min-rate+5000+10.129.1.5;%5B%2B%5D+Discovered+open+ports%3A+22%2C+80%2C+8080%2C+3306;bqroncy@kali%3A~%24+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%3B+run%22;%5B*%5D+Meterpreter+session+1+opened+(10.10.14.8%3A4444+-%3E+10.129.1.5%3A5892);bqroncy@kali%3A~%24+python3+exploit_rop_chain.py+--target+remote;%5B%2B%5D+ROP+Chain+Sent...+EIP+Overwritten...;%5B%23%5D+Root+Shell+Spawned!+(uid%3D0%2Froot);bqroncy@kali%3A~%24+cat+%2Froot%2Froot.txt+%26%26+history+-c" alt="Terminal Simulation" />
   </a>
 </div>
+
+<br>
+
+* 🔭 **Şu an üzerinde çalıştığım:** Linux Kernel modülleri üzerinde rootkit analizi ve İHA sürüleri için güvenli haberleşme protokolleri.
+* 🌱 **Öğrenmeye devam ettiğim:** Tersine Mühendislik (Reverse Engineering) ve Malware Analizi.
+* 👯 **İş birliği aradığım konular:** Açık kaynak siber güvenlik araçları ve Otonom savunma sistemleri.
+* ⚡ **Eğlenceli gerçek:** Bilgisayarımı fare kullanmadan, sadece terminal komutlarıyla yönetmeyi tercih ederim.
 
 ---
 
@@ -50,7 +53,7 @@ Siber savaşlarda ve yazılım geliştirmede kullandığım araçlar ve diller:
 
 | **Kurum** | **Sertifika/Başarı** |
 | :--- | :--- |
-| **İstanbul İletişim Enstitüsü** | 🎓 **C# Yazılım Geliştirme Sertifikası** |
+| **Istanbul Communication Institute** | 🎓 **C# Software Development Certificate** |
 | **TryHackMe** | 🛡️ **Top %1 Ranked Hacker** (Siber Güvenlik Pratikleri) |
 
 ---
@@ -60,17 +63,14 @@ Siber savaşlarda ve yazılım geliştirmede kullandığım araçlar ve diller:
 #### 🦅 1. Otonom İHA Güvenlik Kalkanı (ROS & Python)
 * **Amaç:** İHA sistemlerine yapılabilecek GPS Spoofing ve WiFi Deauth saldırılarını tespit edip, otonom olarak "Eve Dön" moduna geçen bir savunma mekanizması.
 * **Teknolojiler:** ROS Noetic, Python, Aircrack-ng API, MAVLink.
-* **Durum:** 🟢 Aktif Geliştiriliyor
 
 #### 🐧 2. Linux Kernel Exploit Analizi (C & Assembly)
 * **Amaç:** Eski Linux çekirdek sürümlerindeki "Race Condition" zafiyetlerini analiz ederek, eğitim amaçlı yerel yetki yükseltme (Privilege Escalation) scriptleri yazmak.
 * **Teknolojiler:** C, GDB, Kernel Debugging.
-* **Durum:** 🟡 Araştırma Aşamasında
 
 #### 🕷️ 3. Red Team Otomasyon Aracı (Bash)
 * **Amaç:** Sızma testlerinde bilgi toplama aşamasını (Reconnaissance) otomatize eden, Nmap ve Nikto çıktılarını raporlayan bir CLI aracı.
 * **Teknolojiler:** Bash Scripting, Python.
-* **Durum:** 🟢 Tamamlandı
 
 ---
 
@@ -103,6 +103,9 @@ Siber savaşlarda ve yazılım geliştirmede kullandığım araçlar ve diller:
   <a href="https://github.com/bqroncy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/bqroncy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:bqroncy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -115,6 +118,6 @@ Siber savaşlarda ve yazılım geliştirmede kullandığım araçlar ve diller:
   </p>
 
   <p align="center">
-    <sub>Bu profil <b>Sakarya Üniversitesi</b> kampüsünden ☕ ve ❤️ ile kodlanmıştır.</sub>
+    <sub>Bu profil <b>Sakarya Üniversitesi</b> kampüsünden 💀 ve ❤️ ile kodlanmıştır.</sub>
   </p>
 </div>
