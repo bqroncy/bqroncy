@@ -23,7 +23,7 @@ Bu alan benim günlük dijital rutinimi temsil eder.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=600&color=33FF00&background=0D1117&center=false&vCenter=true&width=750&lines=bqroncy@kali%3A~%24+nmap+-p-+--min-rate+5000+10.129.1.5;%5B%2B%5D+Discovered+open+ports%3A+22%2C+80%2C+8080%2C+3306;bqroncy@kali%3A~%24+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%3B+run%22;%5B*%5D+Meterpreter+session+1+opened+(10.10.14.8%3A4444+-%3E+10.129.1.5%3A5892);bqroncy@kali%3A~%24+python3+exploit_rop_chain.py+--target+remote;%5B%2B%5D+ROP+Chain+Sent...+EIP+Overwritten...;%5B%23%5D+Root+Shell+Spawned!+(uid%3D0%2Froot);bqroncy@kali%3A~%24+cat+%2Froot%2Froot.txt+%26%26+history+-c" alt="Terminal Simulation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=600&color=33FF00&background=0D1117&center=true&vCenter=true&width=780&lines=bqroncy@kali%3A~%24+nmap+-p-+--min-rate+5000+10.129.1.5;%5B%2B%5D+Discovered+open+ports%3A+22%2C+80%2C+8080%2C+3306;bqroncy@kali%3A~%24+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%3B+run%22;%5B*%5D+Meterpreter+session+1+opened+(10.10.14.8%3A4444+-%3E+10.129.1.5%3A5892);bqroncy@kali%3A~%24+python3+exploit_rop_chain.py+--target+remote;%5B%2B%5D+ROP+Chain+Sent...+EIP+Overwritten...;%5B%23%5D+Root+Shell+Spawned!+(uid%3D0%2Froot);bqroncy@kali%3A~%24+cat+%2Froot%2Froot.txt+%26%26+history+-c" alt="Terminal Simulation" />
   </a>
 </div>
 
