@@ -2,12 +2,14 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;display=swap');
+        /* YENİ FONT: Share Tech Mono (Tam bir hacker terminali havası) */
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
 
+        /* Bozuk Neon Titreme Animasyonu */
         @keyframes flicker {
           0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
             opacity: 1;
-            text-shadow: 0 0 10px #ce1212;
+            text-shadow: 0 0 10px #ce1212, 0 0 20px #ce1212;
           }
           20%, 24%, 55% {
             opacity: 0.1;
@@ -20,20 +22,23 @@
           justify-content: center;
           align-items: center;
           height: 100%;
+          background: transparent;
         }
 
         .text {
-          font-family: 'Orbitron', sans-serif;
-          font-size: 35px;
-          font-weight: 700;
-          text-transform: uppercase;
-          letter-spacing: 1px;
+          font-family: 'Share Tech Mono', monospace; /* Yeni Font */
+          font-size: 50px; /* Metin kısaldığı için boyutu büyüttüm, daha etkileyici duracak */
+          font-weight: 400;
+          text-transform: lowercase; /* Hepsini küçük harfe zorlar */
+          letter-spacing: 4px; /* Harf aralığını açarak sinematik hava verdim */
           color: #ce1212;
+          
+          /* Animasyon */
           animation: flicker 4s infinite;
         }
       </style>
       <div class="container">
-        <div class="text">Baran 'bqroncy' Ömeroğulları</div>
+        <div class="text">bqroncy</div>
       </div>
     </div>
   </foreignObject>
