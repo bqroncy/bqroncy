@@ -53,7 +53,7 @@ Siber savaşlarda ve yazılım geliştirmede kullandığım araçlar ve diller:
 
 | **Kurum** | **Sertifika/Başarı** |
 | :--- | :--- |
-| **Istanbul Communication Institute** | 🎓 **C# Software Development Certificate** |
+| **Istanbul Business Institute** | 🎓 **C# Programming** |
 | **TryHackMe** | 🛡️ **Top %1 Ranked Hacker** (Siber Güvenlik Pratikleri) |
 
 ---
