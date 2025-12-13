@@ -17,7 +17,7 @@ Think like a hacker, act like an engineer.
 
 ---
 
-### 📟 /var/log/daily_activity (Simüle Edilmiş Terminal)
+### 📟 /var/log/daily_activity
 
 Bu alan benim günlük dijital rutinimi temsil eder.
 
