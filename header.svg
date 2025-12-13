@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 800 80" width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Nosifer&amp;display=swap');
+
+        @keyframes shine {
+          0% { background-position: -200% center; }
+          100% { background-position: 200% center; }
+        }
+        
+        .container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100%;
+          background: transparent;
+        }
+
+        .text {
+          font-family: 'Nosifer', cursive; /* Ürkütücü Font */
+          font-size: 32px; /* Font çok vahşi olduğu için boyutu dengeledim */
+          font-weight: 400;
+          text-transform: uppercase;
+          
+          /* Kırmızı zemin üzerine beyaz ışık geçişi */
+          background: linear-gradient(
+            to right, 
+            #ce1212 20%, 
+            #ffffff 50%, 
+            #ce1212 80%
+          );
+          background-size: 200% auto;
+          
+          color: #ce1212; /* Yedek renk */
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          
+          animation: shine 4s linear infinite; /* Işık hızı */
+        }
+      </style>
+      <div class="container">
+        <div class="text">Baran 'bqroncy' Ömeroğulları</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
