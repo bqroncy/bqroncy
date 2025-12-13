@@ -1,45 +1,40 @@
-<svg fill="none" viewBox="0 0 800 80" width="800" height="80" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        /* FONT: Share Tech Mono (Terminal Havası) */
-        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
 
-        /* Bozuk Neon Titreme Animasyonu */
-        @keyframes flicker {
-          0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
-            opacity: 1;
-            text-shadow: 0 0 10px #ce1212, 0 0 20px #ce1212;
-          }
-          20%, 24%, 55% {
-            opacity: 0.1;
-            text-shadow: none;
-          }
-        }
-        
-        .container {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          height: 100%;
-          background: transparent;
-        }
+  <style>
+    /* Font Yükleme - Yüklenmezse Courier New devreye girer */
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
 
-        .text {
-          font-family: 'Share Tech Mono', monospace;
-          font-size: 45px; /* Metin uzadığı için boyutu hafif kıstım, mükemmel sığacak */
-          font-weight: 400;
-          text-transform: lowercase;
-          letter-spacing: 2px; /* Harfler birbirine daha yakın, terminal gibi */
-          color: #ce1212;
-          
-          /* Animasyon */
-          animation: flicker 4s infinite;
-        }
-      </style>
-      <div class="container">
-        <div class="text">bqroncy@kali</div>
-      </div>
-    </div>
-  </foreignObject>
+    /* Titreme Animasyonu (Saf CSS) */
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      3% { opacity: 0.4; }
+      6% { opacity: 1; }
+      7% { opacity: 0.4; }
+      8% { opacity: 1; }
+      9% { opacity: 1; }
+      10% { opacity: 0.1; }
+      11% { opacity: 1; }
+      50% { opacity: 1; }
+      52% { opacity: 0.1; }
+      54% { opacity: 1; }
+    }
+
+    .hacker-text {
+      font-family: 'Share Tech Mono', 'Courier New', monospace;
+      font-size: 55px;
+      fill: #ce1212; /* Ürkütücü Kırmızı */
+      text-anchor: middle;
+      dominant-baseline: middle;
+      animation: flicker 4s infinite;
+      filter: url(#glow); /* Parlama Efekti */
+    }
+  </style>
+
+  <text x="50%" y="50%" class="hacker-text">bqroncy@kali</text>
 </svg>
